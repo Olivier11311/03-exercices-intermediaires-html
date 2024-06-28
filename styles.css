@@ -1,0 +1,30 @@
+h1{
+    color: blue;
+    font-size: xx-large;
+    text-decoration: underline;
+
+}
+body{
+    background-color: rgb(204, 195, 204);
+    color: rgb(153, 28, 179);
+    font-weight: normal;
+    
+    
+}
+h2{
+    color: brown;
+    font-style: italic;
+}
+h4{
+    color:red;
+    font-weight: 400;
+}
+ol{
+    color: #1d1b1b;
+}
+ul{
+    color: rgb(29, 27, 27);
+}
+img{
+    border-radius: 15px ;
+}
